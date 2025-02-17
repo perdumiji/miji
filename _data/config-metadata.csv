@@ -1,5 +1,5 @@
 field,display_name,browse_link,external_link
-identifier, Accession Number,,
+identifier, Accession Number,
 location,Shelf Location
 title,Title,
 creator,Creator,true
